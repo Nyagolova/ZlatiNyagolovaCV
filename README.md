@@ -1,2 +1,2 @@
 # ZlatiNyagolovaCV
-Static web page based on vuejs 
+A CV page based on vuejs
