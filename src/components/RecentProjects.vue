@@ -86,12 +86,9 @@ export default {
 </script>
 <style scoped>
 .emphasize {
-  color: black;
+  /* color: black; */
   font-weight: bold;
   font-size: 1.2em;
 }
-
-ul > li {
-  color: black;
-} 
+ 
 </style>

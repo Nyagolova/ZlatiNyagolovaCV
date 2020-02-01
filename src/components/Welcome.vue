@@ -9,7 +9,7 @@
         md6
       >
         <v-img
-          :src="require('@/assets/welcome3.png')"
+          :src="require('@/assets/welcome3-small.jpg')"
           height="100vh"
         />
       </v-flex>

@@ -4,7 +4,7 @@
     class="hide-overflow"
   >
     <v-layout
-      lime lighten-1
+      teal lighten-3
       white--text
     >
       <v-flex
