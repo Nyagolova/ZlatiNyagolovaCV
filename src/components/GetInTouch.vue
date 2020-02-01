@@ -3,10 +3,7 @@
     id="get-in-touch"
     class="hide-overflow"
   >
-    <v-layout
-      teal lighten-3
-      white--text
-    >
+    <v-layout>
       <v-flex
         hidden-sm-and-down
         md6
@@ -21,10 +18,8 @@
         md6
         pa-5
       >
-        <!-- <base-bubble-1 /> -->
-        <base-heading class="mb-5">
-          Get In Touch
-        </base-heading>
+
+        <div class="mainheading display-3 v-heading mb-3 font-weight-light">Get In Touch</div>
 
         <!-- Social Media - stackoverflow, linkedin, github, instagram, facebook -->
 
